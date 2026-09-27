@@ -1,6 +1,6 @@
 # Réservation de Films (Janvier - Avril 2026)
 
-Application CLI réalisé en binôme en 3ème année de licence informatique.  
+Application CLI de réservation réalisé en 3ème année de licence informatique.  
 J'ai utilisé 3 outils de communication différents, ce qui m'a permis de comprendre quels mécanismes mettre en oeuvre lors des interactions client serveur.  
 
 ## Architecture commune
